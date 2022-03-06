@@ -1,4 +1,4 @@
 hello all this is raja.txt file
 second line adding to test reset command
 3rd line adding in developer branch
-
+changing for pull request
