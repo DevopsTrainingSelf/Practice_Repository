@@ -1,0 +1,2 @@
+hello guys
+this is file 2 in directories folder
